@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Adi 👋  <br>🎓 First-year Computer Science student  <br>💡 Learning C++, Firebase, and Web Development  <br>🚀 Interested in internships, hackathons, and real-world projects<br>
+Hi, I'm Aditi dwivedi<br>🎓 First-year Computer Science student  <br>💡 Learning C++, Firebase, and Web Development  <br>🚀 Interested in internships, hackathons, and real-world projects<br>
 
 
 ## 🌐 Socials:
